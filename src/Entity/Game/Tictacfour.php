@@ -34,7 +34,7 @@ class Tictacfour extends Tictactoe
      *
      * @var string
      */
-    protected static $description = 'Tic-tac-four is a game for two players, X and O, who take turns marking the spaces in a 7×6 grid.';
+    protected static $description = 'Tic-tac-four هي لعبة للاعبين ، X و O ، يتناوبون على تحديد المسافات في شبكة 7 × 6';
 
     /**
      * Game thumbnail image
