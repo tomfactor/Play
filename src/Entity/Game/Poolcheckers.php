@@ -36,14 +36,14 @@ class Poolcheckers extends Checkers
      *
      * @var string
      */
-    protected static $title = 'Pool Checkers';
+    protected static $title = 'تجمع لعبة الداما';
 
     /**
      * Game name
      *
      * @var string
      */
-    protected static $title_extra = '(flying kings, men can capture backwards)';
+    protected static $title_extra = '(الملوك الطائرون ، يمكن للرجال التقاط الوراء)';
 
     /**
      * Order on the games list
