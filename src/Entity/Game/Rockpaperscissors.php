@@ -37,14 +37,14 @@ class Rockpaperscissors extends Game
      *
      * @var string
      */
-    protected static $title = 'Rock-Paper-Scissors';
+    protected static $title = 'حجرة ورقه مقص';
 
     /**
      * Game description
      *
      * @var string
      */
-    protected static $description = 'Rock-paper-scissors is game in which each player simultaneously forms one of three shapes with an outstretched hand.';
+    protected static $description = ' حجرة ورقة مقص هي لعبة يقوم فيها كل لاعب في نفس الوقت بتشكيل واحد من ثلاثة أشكال بيد ممدودة';
 
     /**
      * Game thumbnail image
