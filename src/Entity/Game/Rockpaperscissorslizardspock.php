@@ -32,14 +32,14 @@ class Rockpaperscissorslizardspock extends Rockpaperscissors
      *
      * @var string
      */
-    protected static $title = 'Rock-Paper-Scissors-Lizard-Spock';
+    protected static $title = 'حجرة ورقة مقص المطورة';
 
     /**
      * Game description
      *
      * @var string
      */
-    protected static $description = 'Rock-paper-scissors-lizard-spock is a game in which each player simultaneously forms one of five shapes with an outstretched hand.';
+    protected static $description = 'حجرة ورقه مقص ولكن بستخدام 5 حركات وليس 3';
 
     /**
      * Game thumbnail image
