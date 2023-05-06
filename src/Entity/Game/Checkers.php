@@ -37,21 +37,21 @@ class Checkers extends Game
      *
      * @var string
      */
-    protected static $title = 'Checkers';
+    protected static $title = 'لعبة الداما';
 
     /**
      * Game name
      *
      * @var string
      */
-    protected static $title_extra = '(no flying kings, men cannot capture backwards)';
+    protected static $title_extra = '( ليست ملوكًا طائرين ، لا يمكن للرجال التقاطها للخلف توم يمر)';
 
     /**
      * Game description
      *
      * @var string
      */
-    protected static $description = 'Checkers is game in which the goal is to capture the other player\'s checkers or make them impossible to move.';
+    protected static $description = 'لعبة الداما هي لعبة يكون الهدف فيها هو التقاط قطع اللاعب الآخر \'s او جعلها مستحيلة الحركة.';
 
     /**
      * Game thumbnail image
