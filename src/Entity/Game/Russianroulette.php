@@ -37,14 +37,14 @@ class Russianroulette extends Game
      *
      * @var string
      */
-    protected static $title = 'Russian Roulette';
+    protected static $title = 'الروليت الروسية';
 
     /**
      * Game description
      *
      * @var string
      */
-    protected static $description = 'Russian roulette is a game of chance in which a player places a single round in a revolver, spins the cylinder, places the muzzle against their head, and pulls the trigger.';
+    protected static $description = 'الروليت الروسي هي لعبة حظ حيث يضع اللاعب جولة واحدة في مسدس ، ويدور الأسطوانة ، ويضع الكمامة على رأسه ، ويسحب الزناد ';
 
     /**
      * Game thumbnail image
