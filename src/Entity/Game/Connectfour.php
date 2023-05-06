@@ -42,7 +42,7 @@ class Connectfour extends Game
      *
      * @var string
      */
-    protected static $description = 'Connect Four is a connection game in which the players take turns dropping colored discs from the top into a seven-column, six-row vertically suspended grid.';
+    protected static $description = 'Connect Four هي لعبة اتصال يتناوب فيها اللاعبون على إسقاط الأقراص الملونة من الأعلى إلى شبكة معلقة رأسيًا مكونة من سبعة أعمدة وستة صفوف';
 
     /**
      * Game thumbnail image
